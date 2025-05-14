@@ -3,7 +3,7 @@ layout: project
 title: NASA ChipSats Design Optimization
 description: Developed a multidisciplinary optimization framework combining genetic algorithms, gradient-based methods, Monte Carlo simulation, and Poisson modeling to maximize lunar-impact ChipSat survivability.
 technologies: [LS-DYNA, OpenMDAO, Python, ANSYS, CAD Modeling, Design of Experiments (DOE), Multidisciplinary Design Optimization (MDO), Data Visualization, Impact Simulation, Structural Analysis]
-image: /assets/images/Chipsat-Stress-After-Impact.jpg
+image: /assets/images/Chipsat-Stress-After-Impact.png
 ---
 
 As part of a multidisciplinary team at Cornell University collaborating with NASA, I contributed to the design optimization of a lunar-impact ChipSat aimed at maximizing post-impact survivability within strict 3U CubeSat constraints. Our work focused on balancing key trade-offs between structural integrity, material selection, electronic layout, cost, and flight dynamics to create a system capable of surviving high-speed lunar impact.
