@@ -6,7 +6,7 @@ title: <Emma Bourgeois About Me>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/Profile-Pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/Profile.png" | relative_url }}){: class="profile-image"}
  
 Hi! I’m Emma Bourgeois, a Cornell Mechanical Engineering graduate with a designer’s mindset and an instinct for problem-solving. Ever since I was a kid, all I wanted to do was play with Legos and figure out how the world worked. “How It’s Made” was my Sunday morning show,  Home Depot was our second home, and I stole any scraps and parts to build anything my creativity desired. My parents gave me the “I can fix it” mindset early on, and it stuck. By high school, I was diving headfirst into engineering: learning SolidWorks and AutoCAD at 13, 3D printing my first prototypes, and falling in love with the process of turning ideas into real, useful things.
 
